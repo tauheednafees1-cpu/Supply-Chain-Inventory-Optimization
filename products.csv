@@ -1,0 +1,36 @@
+product_id,product_name,category,supplier,unit_cost,unit_price,lead_time_days,service_level,current_stock,reorder_level
+P1001,Wireless Mouse,Electronics,Alpha Distributors,2268.8,3208.42,14,0.95,385,104
+P1002,Keyboard,Electronics,Bright Supply Co.,1508.41,1940.44,4,0.9,64,110
+P1003,USB Hub,Electronics,CoreLink Traders,599.97,847.74,9,0.95,448,142
+P1004,Webcam,Electronics,Delta Wholesale,1546.79,2184.39,5,0.95,454,82
+P1005,Headphones,Electronics,Evergreen Suppliers,1553.46,2082.8,17,0.98,229,122
+P1006,Power Bank,Electronics,Prime Source Ltd.,1184.06,1591.14,13,0.9,419,55
+P1007,Bluetooth Speaker,Electronics,Alpha Distributors,467.3,602.88,10,0.9,292,63
+P1008,Notebook,Office Supplies,Bright Supply Co.,261.99,343.96,4,0.95,401,72
+P1009,Printer Paper,Office Supplies,CoreLink Traders,246.52,304.74,15,0.95,47,167
+P1010,Stapler,Office Supplies,Delta Wholesale,300.66,413.52,7,0.9,180,28
+P1011,Marker Set,Office Supplies,Evergreen Suppliers,375.06,456.28,10,0.95,354,50
+P1012,Desk Organizer,Office Supplies,Prime Source Ltd.,333.63,470.7,8,0.98,257,133
+P1013,File Folder,Office Supplies,Alpha Distributors,486.13,605.4,4,0.98,66,44
+P1014,Calculator,Office Supplies,Bright Supply Co.,187.68,255.63,9,0.95,338,91
+P1015,Water Bottle,Home & Kitchen,CoreLink Traders,1222.25,1454.46,5,0.95,257,127
+P1016,Coffee Mug,Home & Kitchen,Delta Wholesale,431.48,545.06,5,0.95,161,28
+P1017,Storage Box,Home & Kitchen,Evergreen Suppliers,1441.51,1870.75,9,0.95,470,109
+P1018,Kitchen Scale,Home & Kitchen,Prime Source Ltd.,1009.11,1390.87,10,0.98,280,46
+P1019,Lunch Box,Home & Kitchen,Alpha Distributors,1259.2,1705.55,17,0.9,388,120
+P1020,Electric Kettle,Home & Kitchen,Bright Supply Co.,1065.51,1463.99,16,0.95,117,172
+P1021,Pan Set,Home & Kitchen,CoreLink Traders,572.34,681.53,7,0.98,228,48
+P1022,Shampoo,Personal Care,Delta Wholesale,344.99,471.02,16,0.95,216,82
+P1023,Face Wash,Personal Care,Evergreen Suppliers,566.51,685.17,4,0.9,418,140
+P1024,Body Lotion,Personal Care,Prime Source Ltd.,234.47,331.36,5,0.95,228,47
+P1025,Toothpaste,Personal Care,Alpha Distributors,429.16,558.56,16,0.95,353,89
+P1026,Hand Wash,Personal Care,Bright Supply Co.,139.46,195.61,5,0.95,487,71
+P1027,Hair Oil,Personal Care,CoreLink Traders,221.82,263.07,11,0.95,286,155
+P1028,Soap Pack,Personal Care,Delta Wholesale,385.9,529.86,4,0.95,324,146
+P1029,Phone Case,Accessories,Evergreen Suppliers,448.96,586.96,14,0.98,310,141
+P1030,Charging Cable,Accessories,Prime Source Ltd.,1401.24,1806.1,12,0.9,148,61
+P1031,Laptop Sleeve,Accessories,Alpha Distributors,991.65,1204.94,5,0.95,415,168
+P1032,Screen Protector,Accessories,Bright Supply Co.,273.24,323.8,5,0.9,113,52
+P1033,Travel Adapter,Accessories,CoreLink Traders,576.99,750.71,14,0.98,440,108
+P1034,Wallet,Accessories,Delta Wholesale,724.39,863.35,3,0.95,464,106
+P1035,Backpack,Accessories,Evergreen Suppliers,248.67,343.78,15,0.98,453,74

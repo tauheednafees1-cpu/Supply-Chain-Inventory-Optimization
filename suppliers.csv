@@ -1,0 +1,7 @@
+supplier,region,on_time_rate,quality_rate
+Alpha Distributors,North,0.94,0.985
+Bright Supply Co.,West,0.89,0.978
+CoreLink Traders,South,0.96,0.992
+Delta Wholesale,East,0.91,0.981
+Evergreen Suppliers,Central,0.97,0.995
+Prime Source Ltd.,North,0.93,0.988
